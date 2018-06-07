@@ -1,0 +1,17 @@
+# dependencies
+/.idea
+/config
+/src
+/scripts
+/public
+
+.flowconfig
+
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+
+.idea

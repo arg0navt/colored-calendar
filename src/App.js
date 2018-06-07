@@ -1,6 +1,6 @@
 import React from 'react';
-import ColoredCalendar from 'components/ColoredCalendar';
-import { SingleCalendar } from  'components/ColoredCalendar/SingleCalendar'
+import ColoredCalendar from 'components/ColoredCalendar/coloredCalendar';
+import SingleCalendar from  'components/ColoredCalendar/singleCalendar'
 
 class App extends React.Component {
   render() {

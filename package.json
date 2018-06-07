@@ -1,8 +1,14 @@
 {
   "name": "colored-calendar",
+  "description": "This is single and double calendar for react and with ability paint on days list",
   "version": "0.0.8",
   "private": false,
   "main": "lib/index.js",
+  "homepage": "https://github.com/argonavt11/colored-calendar",
+  "bugs": {
+    "url": "https://github.com/argonavt11/colored-calendar/issues",
+    "email": "argonavt.al@yandex.ru"
+  },
   "dependencies": {
     "lodash": "^4.17.10",
     "moment": "^2.22.2"

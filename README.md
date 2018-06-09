@@ -28,7 +28,7 @@ Used
 Props
 -----
 
-| Prop | Default | Description |
+|    Prop    |    Default    |    Description     |
 | :---         |     :---:      |          ---: |
 | format   | YY.MM.DD | format of date which you used.  |
 | colors     |  []  | Colors list  `[{color: "ccc", month: "01", day: "01"}]`  |

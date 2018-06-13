@@ -31,7 +31,7 @@ Props
 |    Prop    |    Default    |    Description     |
 | :---         |     :---:      |          ---: |
 | format   | YY.MM.DD | format of date which you used.  |
-| colors     |  []  | Colors list  `[{color: "ccc", month: "01", day: "01"}]`  |
+| colors     |  []  | Colors list  `[{color: "ccc", year: "18", month: "01", day: "01"}]`  |
 | limit     |  0  | limited in choose days |
 | firstDayOfWeek     |  1  |  |
 | soloChoose     |  false  | singleton pick of date |

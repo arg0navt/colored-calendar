@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "lodash": "^4.17.10",
-    "moment": "^2.22.2"
+    "moment": "^2.22.2",
+    "react-test-renderer": "^16.4.1"
   },
   "repository": {
     "type": "git",
@@ -46,7 +47,9 @@
       "^react-native$": "react-native-web",
       "components/ColoredCalendar/([^\\.]*)$": "<rootDir>/src/node_modules/components/ColoredCalendar/$1.js"
     },
-    "transformIgnorePatterns": ["<rootDir>/node_modules"],
+    "transformIgnorePatterns": [
+      "<rootDir>/node_modules"
+    ],
     "moduleDirectories": [
       "node_modules",
       "src"
